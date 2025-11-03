@@ -1,0 +1,95 @@
+--------------------------------------------------------------------------------
+DUAL LICENSE NOTICE
+--------------------------------------------------------------------------------
+
+This project consists of two types of code, each distributed under a different
+license:
+
+1. MIT-Licensed Open Source Code (TCM Components)
+2. Patent-Protected Extensions (Additional DeepHQ components)
+
+By using this software, you agree to comply with the terms of each component¡¯s 
+respective license.
+
+
+--------------------------------------------------------------------------------
+1. MIT LICENSE (TCM Components)
+--------------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2023 jmliu206
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+2. PATENT-PROTECTED EXTENSIONS (DeepHQ Components)
+--------------------------------------------------------------------------------
+The code that was newly introduced for the DeepHQ technology (including but not limited to 
+modules implementing hierarchical quantization, progressive coding, learned quantizers, or 
+any component explicitly marked as ¡°DeepHQ Extension¡± or ¡°Patent-Protected Code¡±) 
+is not covered by the MIT License. Instead, it is licensed under the following terms:
+
+2.1 Research and Non-Commercial Use License
+-------------------------------------------
+You are allowed to use, modify, and distribute the patented extension code for
+research and non-commercial purposes only, provided that:
+
+- You retain the above copyright notice,
+- You include this license text in any copies or substantial portions of the code,
+- You do not use the code, or any derivative work, in commercial products,
+  services, or for-profit activities without a separate commercial license.
+
+2.2 Patent Rights
+-----------------
+The authors retain all ownership and patent rights associated with the
+technologies implemented in the patented extension code.  
+No patent license (express or implied) is granted for commercial use.
+
+Any commercial use of this software, including but not limited to:
+- Integration into commercial products or services
+- Use in for-profit platforms or SaaS
+- Redistribution as part of a paid package or solution
+
+requires a separate patent license agreement from the copyright holders.
+
+To obtain a commercial patent license, please contact:
+   Email: [leejy1003@etri.re.kr]
+
+2.3 Patent Litigation Termination Clause
+----------------------------------------
+If you or your organization initiate any patent litigation alleging that this
+software or its use infringes a patent, your rights under this license 
+for the patented code will terminate immediately.
+
+--------------------------------------------------------------------------------
+3. NO WARRANTY
+--------------------------------------------------------------------------------
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement. In no event shall the
+authors or copyright holders be liable for any claim, damages, or other
+liability, whether in an action of contract, tort, or otherwise, arising from,
+out of, or in connection with the software or the use or other dealings in
+the software.
+
+--------------------------------------------------------------------------------
+END OF LICENSE
+--------------------------------------------------------------------------------
