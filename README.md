@@ -1,7 +1,6 @@
 # DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding
 
-This repository contains the source codes of the paper  
-**"DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding"**.
+This repository contains the source codes of the paper  [**"DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding"**](https://arxiv.org/abs/2408.12150).
 
 ---
 
