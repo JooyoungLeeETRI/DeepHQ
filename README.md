@@ -2,6 +2,17 @@
 
 This repository contains the source codes of the paper  [**"DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding"**](https://arxiv.org/abs/2408.12150).
 
+~~~
+@article{Lee2025DeepHQ,
+  title        = {DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding},
+  author       = {Lee, Jooyoung and Jeong, Se Yoon and Kim, Munchurl},
+  journal      = {ACM Transactions on Multimedia Computing, Communications, and Applications},
+  year         = {2025},
+  doi          = {10.1145/3773994},
+  url          = {https://doi.org/10.1145/3773994},
+}
+~~~
+
 ---
 
 ## Environment Setup
